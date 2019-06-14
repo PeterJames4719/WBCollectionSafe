@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'WBCollectionSafe_Example' do
+  pod 'WBCollectionSafe', :path => '../'
+
+  target 'WBCollectionSafe_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

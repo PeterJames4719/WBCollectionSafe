@@ -1,0 +1,16 @@
+PODS:
+  - WBCollectionSafe (0.1.0)
+
+DEPENDENCIES:
+  - WBCollectionSafe (from `../`)
+
+EXTERNAL SOURCES:
+  WBCollectionSafe:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WBCollectionSafe: 0de01a6ab899d0b4314e0ba4bf56f255ef76b9ea
+
+PODFILE CHECKSUM: 473001e83e5954ec26acc4169edd9602b707f939
+
+COCOAPODS: 1.7.2

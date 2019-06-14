@@ -1,0 +1,6 @@
+framework module WBCollectionSafe {
+  umbrella header "WBCollectionSafe-umbrella.h"
+
+  export *
+  module * { export * }
+}
